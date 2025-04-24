@@ -6,9 +6,9 @@ I'm working on growing my already wide skillset, as I'm a primary full-stack web
 
 Here's a general idea of who I am and what I'm doing:
 
-- ✍️ I've worked on various python and javascript applications, branching from e-commerce and innovative web products to virtual RAGs with voice capabilities
-- 🔭 I’m currently working on understanding the principles of neural networks, various functions and networks.
-- 🤔 I’m looking for help with understanding the deep concepts of neural nets and various parts, such as ReLU.
+- ✍️ I've worked on various python and javascript applications, mostly web apps and RAGs
+- 🔭 I’m currently working on understanding the architecture of LLMs and deep learning.
+- 🌱 Overall, enjoying programming and the logic behind it :)
 - 📫 You can mail me [here](mailto:discodiscostuck@gmail.com) if you're looking to collaborate.
 
 ### 👋 That's it! This will grow, but for now, thanks for taking the time to read this!
